@@ -1,5 +1,8 @@
 hi there.
 
+<<<<<<< HEAD
 Testing one
 
+=======
+>>>>>>> bef4407477d86e45cbe5e55eeefed33ab5625307
 Testing again
